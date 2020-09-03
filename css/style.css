@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Graublau Web';
+    src:  url('../fonts/Graublau Web Regular.eot?') format('eot'), 
+          url('../fonts/Graublau Web Regular.woff?') format('woff'), 
+          url('../fonts/Graublau Web Regular.ttf') format('ttf');
+}
+
+body{
+    font-family: "Graublau Web", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top:50px;
+    padding-bottom: 70px;
+}
+
+.list-group{
+    padding-bottom:15px;
+    margin-bottom: 5%;
+}
+
+.dropdown{
+    margin-bottom: 85%; 
+    align-items: center;
+}
+
+.nav-link{
+    border-radius: 0.25rem; 
+    cursor: pointer; 
+    width: 100%; 
+}
+
+a{
+    width: 100%;
+}
